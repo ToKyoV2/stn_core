@@ -4,7 +4,7 @@ Creation Date:	07/05/2021
 fx_version 'adamant'
 game 'gta5'
 author 'Sitman#2191'
-version '1.0.0'
+version '1.0.1'
 versioncheck 'https://raw.githubusercontent.com/ToKyoV2/stn_core/main/fxmanifest.lua'
 lua54 'yes'
 
