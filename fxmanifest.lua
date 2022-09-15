@@ -5,7 +5,7 @@ fx_version 'adamant'
 game 'gta5'
 author 'Sitman#2191'
 version '1.0.0'
-versioncheck 'https://raw.githubusercontent.com//main/fxmanifest.lua'
+versioncheck 'https://raw.githubusercontent.com/ToKyoV2/stn_core/main/fxmanifest.lua'
 lua54 'yes'
 
 shared_scripts {
